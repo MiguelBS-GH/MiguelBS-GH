@@ -41,7 +41,7 @@ Cuandó terminé decidí apostar por el desarrollo movil, que era lo que a mi re
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 - [**PRUEBA Lista tartas**](https://github.com/MiguelBS-GH/CakesListApp.git): Acceder a Json y mostrar lista de tartas.
 - [**PRUEBA Empleados**](https://github.com/MiguelBS-GH/CakesListApp.git): Accedera API y listar, crear, modificar y eliminar empleados.
-- 
+
 </br>
 
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
@@ -49,5 +49,7 @@ Cuandó terminé decidí apostar por el desarrollo movil, que era lo que a mi re
 - [**PRUEBA Heroes de Marvel**](https://github.com/MiguelBS-GH/MarvelApp-iOS.git) con: Acceder a API y listar Heroes con detalle.
 - [**Calculadora**](https://github.com/MiguelBS-GH/MarvelApp-iOS.git) con: calculadora básica de iOS
 
-
+## Contactame en:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Bragado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/miguel-bragado-s%C3%A1nchez-873362183/)
+[![Email](https://img.shields.io/badge/gmail-m.bragado.99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:m.bragado.99@gmail.com)
 
