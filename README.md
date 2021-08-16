@@ -40,7 +40,7 @@ Cuandó terminé decidí apostar por el desarrollo movil, que era lo que a mi re
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]() 
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 - [**PRUEBA Lista tartas**](https://github.com/MiguelBS-GH/CakesListApp.git): Acceder a Json y mostrar lista de tartas.
-- [**PRUEBA Empleados**](https://github.com/MiguelBS-GH/CakesListApp.git): Accedera API y listar, crear, modificar y eliminar empleados.
+- [**PRUEBA Empleados**](https://github.com/MiguelBS-GH/CakesListApp.git): Acceder a API y listar, crear, modificar y eliminar empleados.
 
 </br>
 
