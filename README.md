@@ -47,7 +47,7 @@ Al finalizar este grado, decidí apostar por el desarrollo móvil, que es lo que
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 - [**PRUEBA Heroes de Marvel**](https://github.com/MiguelBS-GH/MarvelApp-iOS.git): Acceder a API y listar Heroes con detalle.
-- [**Calculadora**](https://github.com/MiguelBS-GH/MarvelApp-iOS.git): calculadora básica de iOS
+- [**Calculadora**](https://github.com/MiguelBS-GH/MarvelApp-iOS.git): Calculadora básica de iOS
 
 ## Contactame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Bragado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/miguel-bragado-s%C3%A1nchez-873362183/)
