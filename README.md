@@ -1,11 +1,11 @@
 # 👋 Hola, mi nombre es Miguel Bragado 👋
 ### Android & iOS Developer
 
-Soy un programador junior con ganas de seguir creciendo en el mundo del desarrollo movil.
+Soy programador junior con ganas de seguir creciendo en el mundo del desarrollo móvil.
 
-Terminé un grado superior de [**Desarrollo de aplicaciones multiplataforma**](https://iesclaradelrey.es/portal/index.php/es/ensenanzas/ensenanzas-listado/840-dm) donde aprendí Android con Java en el [IES Clara del Rey](https://iesclaradelrey.es/portal/index.php/es/). </br>
-Después hice practicas en [**Mirame.net**](https://www.mirame.net/) como fullstack, desarrollando una API y una web para el control de unos altavoces con **PHP**(framework **Symfony**), JavaScript, HTML, CSS y otras tecnologías. </br>
-Cuandó terminé decidí apostar por el desarrollo movil, que era lo que a mi realmente me apasionaba, e invertí en un mac para aprender iOS y en varios cursos.
+Estudié el grado superior de [**Desarrollo de aplicaciones multiplataforma**](https://iesclaradelrey.es/portal/index.php/es/ensenanzas/ensenanzas-listado/840-dm) donde aprendí Android con Java en el [IES Clara del Rey](https://iesclaradelrey.es/portal/index.php/es/). </br>
+Después hice prácticas en [**Mirame.net**](https://www.mirame.net/) como fullstack, desarrollando una API y una web para el control de unos altavoces con **PHP**(framework **Symfony**), JavaScript, HTML, CSS y otras tecnologías. </br>
+Al finalizar este grado, decidí apostar por el desarrollo móvil, que es lo que a mi realmente me apasiona. Así pues, invertí mi dinero en comprar un equipo Mac que me permitiera aprender desarrollo en iOS y dos cursos mas avanzados que me ayudaron a seguir mejorando, uno de iOS con Swift y otro de Android con Kotlin.
 
 - [**Curso iOS (Swift)**](https://www.udemy.com/certificate/UC-0a2a1719-a60b-4991-9922-39c29ad9dca5/)
 - [**Curso Android (Kotlin)**](https://kotlinandroides.club.hotmart.com/public/user-certificate/69825aad-d78a-486c-8b35-f51b3c8e0c17/_)
