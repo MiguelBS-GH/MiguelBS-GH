@@ -5,7 +5,7 @@ Soy programador junior con ganas de seguir creciendo en el mundo del desarrollo 
 
 Estudié el grado superior de [**Desarrollo de aplicaciones multiplataforma**](https://iesclaradelrey.es/portal/index.php/es/ensenanzas/ensenanzas-listado/840-dm) donde aprendí Android con Java, entre otras tecnologías y lenguajes, en el [IES Clara del Rey](https://iesclaradelrey.es/portal/index.php/es/). </br>
 Después hice prácticas en [**Mirame.net**](https://www.mirame.net/) como fullstack, desarrollando una API y una web para el control de unos altavoces con **PHP**(framework **Symfony**), JavaScript, HTML, CSS y otras tecnologías. </br>
-Al finalizar este grado, decidí apostar por el desarrollo móvil, que es lo que a mi realmente me apasiona. Así pues, invertí mi dinero en comprar un equipo Mac que me permitiera aprender desarrollo en iOS y dos cursos mas avanzados que me ayudaron a seguir mejorando, uno de iOS con Swift y otro de Android con Kotlin.
+Al finalizar este grado, decidí apostar por el desarrollo móvil, que es lo que a mi realmente me apasiona. Así pues, invertí mi dinero en comprar un equipo Mac que me permitiera aprender desarrollo en iOS y es dos cursos mas avanzados que me ayudaron a seguir mejorando, uno de iOS con Swift y otro de Android con Kotlin.
 
 - [**Curso iOS (Swift)**](https://www.udemy.com/certificate/UC-0a2a1719-a60b-4991-9922-39c29ad9dca5/)
 - [**Curso Android (Kotlin)**](https://kotlinandroides.club.hotmart.com/public/user-certificate/69825aad-d78a-486c-8b35-f51b3c8e0c17/_)
@@ -46,8 +46,8 @@ Al finalizar este grado, decidí apostar por el desarrollo móvil, que es lo que
 
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
-- [**PRUEBA Heroes de Marvel**](https://github.com/MiguelBS-GH/MarvelApp-iOS.git) con: Acceder a API y listar Heroes con detalle.
-- [**Calculadora**](https://github.com/MiguelBS-GH/MarvelApp-iOS.git) con: calculadora básica de iOS
+- [**PRUEBA Heroes de Marvel**](https://github.com/MiguelBS-GH/MarvelApp-iOS.git): Acceder a API y listar Heroes con detalle.
+- [**Calculadora**](https://github.com/MiguelBS-GH/MarvelApp-iOS.git): calculadora básica de iOS
 
 ## Contactame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Bragado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/miguel-bragado-s%C3%A1nchez-873362183/)
