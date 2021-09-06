@@ -1,15 +1,15 @@
 # 👋 Hola, mi nombre es Miguel Bragado 👋
 ### Android & iOS Developer
 
-Soy programador junior con ganas de seguir creciendo en el mundo del desarrollo móvil.
+Programador junior con ganas de seguir creciendo y aprendiendo en el mundo del desarrollo mobile.
 
 Estudié el grado superior de [**Desarrollo de aplicaciones multiplataforma**](https://iesclaradelrey.es/portal/index.php/es/ensenanzas/ensenanzas-listado/840-dm) donde aprendí Android con Java, entre otras tecnologías y lenguajes, en el [IES Clara del Rey](https://iesclaradelrey.es/portal/index.php/es/). </br>
 Después hice prácticas en [**Mirame.net**](https://www.mirame.net/) como fullstack, desarrollando una API y una web para el control de unos altavoces con **PHP**(framework **Symfony**), JavaScript, HTML, CSS y otras tecnologías. </br>
-Al finalizar este grado, decidí apostar por el desarrollo móvil, que es lo que a mi realmente me apasiona. Así pues, invertí mi dinero en comprar un equipo Mac que me permitiera aprender desarrollo en iOS y en dos cursos mas avanzados que me ayudaron a seguir mejorando, uno de iOS con Swift y otro de Android con Kotlin.
+Al finalizar este grado, decidí apostar por el desarrollo móvil, que es lo que a mi realmente me apasiona. Así pues, invertí mi dinero en comprar un equipo Mac que me permitiera aprender desarrollo en iOS y en varios cursos mas avanzados que me ayudaron a seguir mejorando, tanto en iOS como en Android.
 
-- [**Curso iOS (Swift)**](https://www.udemy.com/certificate/UC-0a2a1719-a60b-4991-9922-39c29ad9dca5/)
-- [**Curso Android (Kotlin)**](https://kotlinandroides.club.hotmart.com/public/user-certificate/69825aad-d78a-486c-8b35-f51b3c8e0c17/_)
-
+- [**Curso iOS (Swift)**](https://www.udemy.com/certificate/UC-0a2a1719-a60b-4991-9922-39c29ad9dca5/): Swift, UIKit, SwiftUI, Alamofire, Firebase
+- [**Curso Android (Kotlin)**](https://kotlinandroides.club.hotmart.com/public/user-certificate/69825aad-d78a-486c-8b35-f51b3c8e0c17/_): Kotlin, MVVM, Corrutinas
+- [**Curso Programación asíncrona con Combine iOS (Swift)**](https://www.udemy.com/certificate/UC-89a4a813-44e4-4e98-9c69-05f4dfcfc6a3/): Combine, MVVM, URLSession
 
 ## Skills:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
