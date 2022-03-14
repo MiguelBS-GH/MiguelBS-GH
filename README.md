@@ -9,6 +9,7 @@ Al finalizar este grado, decidí apostar por el desarrollo móvil, que es lo que
 
 - [**Curso iOS (Swift)**](https://www.udemy.com/certificate/UC-0a2a1719-a60b-4991-9922-39c29ad9dca5/): Swift, UIKit, SwiftUI, Alamofire, Firebase
 - [**Curso Android (Kotlin)**](https://kotlinandroides.club.hotmart.com/public/user-certificate/69825aad-d78a-486c-8b35-f51b3c8e0c17/_): Kotlin, MVVM, Corrutinas
+- [**Curso Android (Kotlin)**](https://kotlinandroides.club.hotmart.com/public/user-certificate/69825aad-d78a-486c-8b35-f51b3c8e0c17/_): Kotlin, MVVM, Corrutinas
 - [**Curso Programación asíncrona con Combine iOS (Swift)**](https://www.udemy.com/certificate/UC-89a4a813-44e4-4e98-9c69-05f4dfcfc6a3/): Combine, MVVM, URLSession
 
 ## Skills:
