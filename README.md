@@ -7,12 +7,16 @@ Estudié el grado superior de [**Desarrollo de aplicaciones multiplataforma**](h
 Después hice prácticas en [**Mirame.net**](https://www.mirame.net/) como fullstack, desarrollando una API y una web para el control de unos altavoces con **PHP**(framework **Symfony**), JavaScript, HTML, CSS y otras tecnologías. </br>
 Al finalizar este grado, decidí apostar por el desarrollo móvil, que es lo que a mi realmente me apasiona. Así pues, invertí mi dinero en comprar un equipo Mac que me permitiera aprender desarrollo en iOS y en varios cursos mas avanzados que me ayudaron a seguir mejorando, tanto en iOS como en Android.
 
+Finalmente estoy trabajando actualmente como **Desarrollador iOS en [**Experis**](https://www.experis.es/) desde Octubre del 2022** en el proyecto de la app del banco santander. Utilizo UIKit, MVVM, Coordinator Pattern, Dependencies Injection pattern y Repository Pattern.
+
+## Cursos:
+
 - [**Curso iOS (Swift)**](https://www.udemy.com/certificate/UC-0a2a1719-a60b-4991-9922-39c29ad9dca5/): Swift, UIKit, SwiftUI, Alamofire, Firebase
 - [**Curso Android (Kotlin)**](https://kotlinandroides.club.hotmart.com/public/user-certificate/69825aad-d78a-486c-8b35-f51b3c8e0c17/_): Kotlin, MVVM, Corrutinas
 - [**Curso Android (Kotlin)**](https://kotlinandroides.club.hotmart.com/public/user-certificate/69825aad-d78a-486c-8b35-f51b3c8e0c17/_): Kotlin, MVVM, Corrutinas
 - [**Curso Programación asíncrona con Combine iOS (Swift)**](https://www.udemy.com/certificate/UC-89a4a813-44e4-4e98-9c69-05f4dfcfc6a3/): Combine, MVVM, URLSession
 
-Finalmente estoy trabajando actualmente como **Desarrollador iOS en [**Experis**](https://www.experis.es/) desde Octubre del 2022** en el proyecto de la app del banco santander. Utilizo UIKit, MVVM, Coordinator Pattern, Dependencies Injection pattern y Repository Pattern.
+
 
 ## Skills:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
