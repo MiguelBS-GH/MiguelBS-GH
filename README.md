@@ -7,7 +7,7 @@ Estudié el grado superior de [**Desarrollo de aplicaciones multiplataforma**](h
 Después hice prácticas en [**Mirame.net**](https://www.mirame.net/) como fullstack, desarrollando una API y una web para el control de unos altavoces con **PHP**(framework **Symfony**), JavaScript, HTML, CSS y otras tecnologías. </br>
 Al finalizar este grado, decidí apostar por el desarrollo móvil, que es lo que a mi realmente me apasiona. Así pues, invertí mi dinero en comprar un equipo Mac que me permitiera aprender desarrollo en iOS y en varios cursos mas avanzados que me ayudaron a seguir mejorando, tanto en iOS como en Android.
 
-Finalmente estoy trabajando actualmente como **Desarrollador iOS en [**Experis**](https://www.experis.es/) desde Octubre del 2022** en el proyecto de la app del banco santander. Utilizo UIKit, MVVM, Coordinator Pattern, Dependencies Injection pattern y Repository Pattern.
+Finalmente estoy trabajando actualmente como **Desarrollador iOS en [**Experis**](https://www.experis.es/) desde Octubre del 2021** en el proyecto de la app del banco santander. Utilizo UIKit, MVVM, Coordinator Pattern, Dependencies Injection pattern y Repository Pattern.
 
 ## Cursos:
 
