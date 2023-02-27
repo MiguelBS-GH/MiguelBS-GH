@@ -9,7 +9,7 @@ Then I had the high professional training practices and I did it in [**Mirame.ne
 
 When I finished the practices, I started learning iOS app development because I realized that this was what interested me the most. So I bought a MacBook Pro and took some [iOS courses](https://github.com/MiguelBS-GH/MiguelBS-GH/edit/main/README.md#cursos) while I sent my CV to some Mobile App Developer job offers.
 
-My first job was as an iOS developer at [**Experis**](https://www.experis.es/) and it's still my current job **since October 2021**. I am developing an iOS app for a big bank (with a perfect team). In this project I use **Xcode, Swift, UIKit, MVVM, Coordinator pattern, Dependencies Injection pattern, Repository pattern, Git, Github, Agile, Scrum, Kanban** among other things.
+My first job was as an iOS developer at [**Experis**](https://www.experis.es/) and it's still my current job **since October 2021**. I am developing an iOS app for a big bank (with a perfect team). In this project I use **Xcode, Swift, UIKit, MVVM, Combine, Coordinator pattern, Dependencies Injection pattern, Repository pattern, UnitTesting, Git, Github, Agile, Scrum, Kanban** among other things.
 
 ## Skills:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
